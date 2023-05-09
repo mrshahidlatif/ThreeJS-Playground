@@ -10,6 +10,4 @@ Interested to use it? Just follow these simple steps:
 4. Run the app on the server by typing this command: `npx parcel ./src/index.html`
 5. Go to "http://localhost:1234" to see the app in your browser;
 
-• The ./assets folder is where you put the images and 3D models.
-
-• The the ./src/ is where you put your Javascript and CSS code
+• The `assets` folder is where you put the images and 3D models.
